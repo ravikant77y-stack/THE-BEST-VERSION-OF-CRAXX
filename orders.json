@@ -1,0 +1,813 @@
+{
+"Falak General Stores":[
+{"name":"Tomato Chips","qty":2},
+{"name":"Salted Chips","qty":3},
+{"name":"Cream Onion Chips","qty":5},
+{"name":"Masala Rings","qty":3},
+{"name":"Tangy Tomato Rings","qty":4},
+{"name":"Masala Curls","qty":5},
+{"name":"Cheese Curls","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Biggies","qty":3},
+{"name":"Fritts Cream Onion","qty":5},
+{"name":"Pipes","qty":2},
+{"name":"Noodles","qty":3},
+{"name":"Choco Rings","qty":2},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":2},
+{"name":"Moong Dal","qty":2}
+],
+
+"Corner Stone":[
+{"name":"Double Mazza","qty":2},
+{"name":"Punjabi Tadka","qty":2},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Bikaneri Bhujia","qty":2},
+{"name":"Mast Moongfali","qty":3},
+{"name":"Hara Mutter","qty":1},
+{"name":"Moong Dal","qty":3},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1}
+],
+
+"Popular Dairy":[
+{"name":"Hara Mutter","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Pipes","qty":2},
+{"name":"Noodles","qty":2}
+],
+
+"Aasha General Store":[
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Salted Chips","qty":1}
+],
+
+"Usha Pan Shop":[
+{"name":"Pipes","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Double Mazza","qty":1}
+],
+
+"Sahyog Medical":[
+{"name":"Fritts Cream Onion","qty":30},
+{"name":"Fritts Peri Peri","qty":30},
+{"name":"Masala Curls","qty":30},
+{"name":"Cheese Ball","qty":50},
+{"name":"Masala Natkhat","qty":30},
+{"name":"Masala Rings","qty":30},
+{"name":"Tangy Tomato Rings","qty":30},
+{"name":"Cream Onion Chips","qty":30},
+{"name":"Salted Chips","qty":30}
+],
+
+"Radha Krishna Dairy":[
+{"name":"Masala Curls","qty":2},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Well Care Medical":[
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":1}
+],
+
+"Honey Bakery":[
+{"name":"Hara Mutter","qty":2},
+{"name":"Masala Curls","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Naaz Bakery And General Stores":[
+{"name":"Cheese Ball","qty":2},
+{"name":"Masala Rings","qty":1},
+{"name":"Noodles","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Fritts Cream Onion","qty":1}
+],
+
+"Bharat Bakery And General Store":[
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Tomato Chips","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Sai Indu Dry Fruits":[
+{"name":"Masala Rings","qty":1},
+{"name":"Choco Rings","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Shree Ganesh Medical":[
+{"name":"Masala Curls","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1}
+],
+
+"JK Store":[
+{"name":"Cheese Ball","qty":2},
+{"name":"Salted Chips","qty":3},
+{"name":"Cheese Curls","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Monika Oil Depot":[
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Fritts Cream Onion","qty":1}
+],
+
+"Shree Sai Medical":[
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Mast Moongfali","qty":2},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Khatta Meetha","qty":1}
+],
+
+"Nabiya Bakery":[
+{"name":"Cheese Ball","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Majisa Chemist":[
+{"name":"Masala Curls","qty":10},
+{"name":"Fritts Cream Onion","qty":10},
+{"name":"Fritts Peri Peri","qty":10},
+{"name":"Cheese Ball","qty":10},
+{"name":"Masala Rings","qty":10}
+],
+
+"Salim Khan General Stores":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1}
+],
+
+"National Dairy":[
+{"name":"Masala Rings","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Cheese Curls","qty":2},
+{"name":"Masala Curls","qty":3},
+{"name":"Biggies","qty":1}
+],
+
+"Heena Collection":[
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Salted Chips","qty":1}
+],
+
+"Om Sai Marketing":[
+{"name":"Tomato Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Noodles","qty":2},
+{"name":"Pipes","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Punjabi Tadka","qty":1}
+],
+
+"Shree Ganesh Medical Jogeshwari":[
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Double Mazza","qty":1}
+],
+
+"Anshika Dairy":[
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Rings","qty":2},
+{"name":"Masala Chips","qty":1}
+],
+
+"Prince Bakery":[
+{"name":"Masala Curls","qty":3},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Masala Rings","qty":2},
+{"name":"Cheese Curls","qty":2}
+],
+
+"Arwah Dairy":[
+{"name":"Masala Curls","qty":5},
+{"name":"Fritts Cream Onion","qty":4}
+],
+
+"New Carona Medical":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1}
+],
+
+"Aman Enterprises":[
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Tomato Chips","qty":2},
+{"name":"Salted Chips","qty":2},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Masala Rings","qty":1}
+],
+
+"Zaara Frozen Food":[
+{"name":"Masala Rings","qty":1},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1}
+],
+
+"Al Sana Store":[
+{"name":"Masala Rings","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Choco Rings","qty":1}
+],
+
+"Lucky General Stores":[
+{"name":"Masala Curls","qty":3},
+{"name":"Biggies","qty":3},
+{"name":"Cheese Ball","qty":2},
+{"name":"Pipes","qty":4},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Noodles","qty":1}
+],
+
+"A To Z General Store":[
+{"name":"Masala Rings","qty":2},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":3},
+{"name":"Biggies","qty":3},
+{"name":"Cheese Ball","qty":3},
+{"name":"Fritts Cream Onion","qty":3},
+{"name":"Salted Chips","qty":3},
+{"name":"Cream Onion Chips","qty":3},
+{"name":"Tomato Chips","qty":2}
+],
+
+"Amber Super Market":[
+{"name":"Masala Curls","qty":10},
+{"name":"Cheese Ball","qty":10},
+{"name":"Masala Rings","qty":15},
+{"name":"Tangy Tomato Rings","qty":15},
+{"name":"Masala Natkhat","qty":15},
+{"name":"Salted Chips","qty":10},
+{"name":"Cream Onion Chips","qty":10},
+{"name":"Fritts Cream Onion","qty":10},
+{"name":"Fritts Peri Peri","qty":15}
+],
+
+"Aarey Stall":[
+{"name":"Masala Curls","qty":2},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Cheese Ball","qty":2},
+{"name":"Pipes","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Choco Rings","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Masala Chips","qty":2},
+{"name":"Moong Dal","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Lite Chivda","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Hara Mutter","qty":1}
+],
+
+"Metro Mini Mart":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Cheese Curls","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Simnani Medical":[
+{"name":"Masala Curls","qty":4},
+{"name":"Cheese Curls","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Cheese Ball","qty":1},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Noodles","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":1}
+],
+
+"Shree Kharghar":[
+{"name":"Moong Dal","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Bikaneri Bhujia","qty":2},
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1}
+],
+
+"Laxmi Mart":[
+{"name":"Masala Rings","qty":10},
+{"name":"Fritts Cream Onion","qty":10},
+{"name":"Fritts Peri Peri","qty":5},
+{"name":"Salted Chips","qty":10},
+{"name":"Masala Curls","qty":10},
+{"name":"Tangy Tomato Rings","qty":5}
+],
+
+"Ratna Farsan And Dry Fruits":[
+{"name":"Masala Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Bikaneri Bhujia","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Fritts Cream Onion","qty":2}
+],
+
+"Siddhivinayak Super Store":[
+{"name":"Masala Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"Uncle Shop":[
+{"name":"Masala Rings","qty":2},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Fritts Cream Onion","qty":1}
+],
+
+"Royal Bakery":[
+{"name":"Masala Rings","qty":2},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Bikaneri Bhujia","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Double Mazza","qty":1}
+],
+
+"SN General Store":[
+{"name":"Masala Curls","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Noodles","qty":1}
+],
+
+"Al Sifa General Store":[
+{"name":"Masala Rings","qty":2},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1}
+],
+
+"Gulshan Bakery Stores":[
+{"name":"Pipes","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Navratan Mixture","qty":1}
+],
+
+"Lokmanya Dairy":[
+{"name":"Cheese Curls","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Biggies","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Chips","qty":2},
+{"name":"Salted Chips","qty":2},
+{"name":"Tomato Chips","qty":2},
+{"name":"Cream Onion Chips","qty":2}
+],
+
+"Laxmi Dairy":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Hara Mutter","qty":1}
+],
+
+"Jai Ambika Stationery Store":[
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Ball","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1}
+],
+
+"Jai Bhavani Dairy":[
+{"name":"Pipes","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Masala Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Tangy Tomato Rings","qty":1}
+],
+
+"Naba Medical":[
+{"name":"Masala Curls","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Cheese Ball","qty":1}
+],
+
+"Danish General Store":[
+{"name":"Double Mazza","qty":2},
+{"name":"Mast Moongfali","qty":2},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Bikaneri Bhujia","qty":2},
+{"name":"Masala Curls","qty":3},
+{"name":"Biggies","qty":2}
+],
+
+"Yadav Pan Bidi Shop":[
+{"name":"Navratan Mixture","qty":2},
+{"name":"Double Mazza","qty":2},
+{"name":"Bikaneri Bhujia","qty":2},
+{"name":"Tomato Chips","qty":2},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Salted Chips","qty":2},
+{"name":"Masala Curls","qty":1},
+{"name":"Pipes","qty":1}
+],
+
+"New Jugnu":[
+{"name":"Salted Chips","qty":2},
+{"name":"Tomato Chips","qty":2},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":2},
+{"name":"Biggies","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Pipes","qty":2},
+{"name":"Noodles","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Tangy Tomato Rings","qty":2}
+],
+
+"Maurya Brothers":[
+{"name":"Masala Rings","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1}
+],
+
+"Shubham Super Stores":[
+{"name":"Pipes","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Masala Curls","qty":1}
+],
+
+"Shubham Pan Shop":[
+{"name":"Hara Mutter","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Aloo Bhujia","qty":1}
+],
+
+"KGN Stores":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Fritts Cream Onion","qty":1}
+],
+
+"Alete Sweet Stores":[
+{"name":"Masala Rings","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Salted Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Navratan Mixture","qty":1}
+],
+
+"Umar Bakery And General Stores":[
+{"name":"Cheese Ball","qty":1},
+{"name":"Masala Curls","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Cheese Curls","qty":1}
+],
+
+"Ramdev Super Market":[
+{"name":"Masala Curls","qty":2},
+{"name":"Masala Rings","qty":1},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Tomato Chips","qty":1},
+{"name":"Cream Onion Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Aloo Bhujia","qty":1}
+],
+
+"Jay Shri Store":[
+{"name":"Mast Moongfali","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Bikaneri Bhujia","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":1}
+],
+
+"Guru Kripa Pan Bidi Shop":[
+{"name":"Pipes","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":2},
+{"name":"Cheese Ball","qty":1},
+{"name":"Biggies","qty":1}
+],
+
+"New Hindustan Bakery":[
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Biggies","qty":1},
+{"name":"Noodles","qty":1},
+{"name":"Masala Rings","qty":1},
+{"name":"Cheese Curls","qty":1},
+{"name":"Fritts Cream Onion","qty":1},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Salted Chips","qty":1},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Moong Dal","qty":2},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Tomato Chips","qty":1}
+],
+
+"Venus Chemist":[
+{"name":"Masala Curls","qty":3},
+{"name":"Choco Rings","qty":2},
+{"name":"Biggies","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Noodles","qty":2},
+{"name":"Pipes","qty":2},
+{"name":"Salted Chips","qty":2},
+{"name":"Tangy Tomato Rings","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Hara Mutter","qty":1},
+{"name":"Double Mazza","qty":2},
+{"name":"Moong Dal","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Navratan Mixture","qty":2},
+{"name":"Bikaneri Bhujia","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Lite Chivda","qty":2}
+],
+
+"Salman Medical":[
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":2},
+{"name":"Masala Rings","qty":2},
+{"name":"Biggies","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Pipes","qty":2},
+{"name":"Noodles","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Salted Chips","qty":2},
+{"name":"Masala Chips","qty":2},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Tomato Chips","qty":2},
+{"name":"Tangy Tomato Rings","qty":2},
+{"name":"Choco Rings","qty":2}
+],
+
+"Falak General Stores":[
+{"name":"Tomato Chips","qty":2},
+{"name":"Salted Chips","qty":3},
+{"name":"Cream Onion Chips","qty":5},
+{"name":"Masala Rings","qty":3},
+{"name":"Tangy Tomato Rings","qty":4},
+{"name":"Masala Curls","qty":5},
+{"name":"Cheese Curls","qty":2},
+{"name":"Cheese Ball","qty":2},
+{"name":"Biggies","qty":3},
+{"name":"Fritts Cream Onion","qty":5},
+{"name":"Pipes","qty":2},
+{"name":"Noodles","qty":3},
+{"name":"Choco Rings","qty":2},
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":2},
+{"name":"Moong Dal","qty":2}
+],
+
+"Badiram Chaurasiya":[
+{"name":"Aloo Bhujia","qty":2},
+{"name":"Double Mazza","qty":2},
+{"name":"Moong Dal","qty":2},
+{"name":"Navratan Mixture","qty":2},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Salted Chips","qty":2},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Tomato Chips","qty":2},
+{"name":"Masala Curls","qty":1},
+{"name":"Cheese Ball","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Pipes","qty":2}
+],
+
+"Omair Medical":[
+{"name":"Masala Rings","qty":1},
+{"name":"Tangy Tomato Rings","qty":1},
+{"name":"Masala Curls","qty":2},
+{"name":"Cheese Curls","qty":1},
+{"name":"Cheese Ball","qty":1},
+{"name":"Pipes","qty":1},
+{"name":"Biggies","qty":2},
+{"name":"Fritts Cream Onion","qty":2},
+{"name":"Noodles","qty":1},
+{"name":"Cream Onion Chips","qty":2},
+{"name":"Tomato Chips","qty":1},
+{"name":"Salted Chips","qty":1},
+{"name":"Aloo Bhujia","qty":1},
+{"name":"Hara Mutter","qty":1},
+{"name":"Double Mazza","qty":1},
+{"name":"Moong Dal","qty":1},
+{"name":"Mast Moongfali","qty":1},
+{"name":"Navratan Mixture","qty":1},
+{"name":"Khatta Meetha","qty":1},
+{"name":"Punjabi Tadka","qty":1},
+{"name":"Bikaneri Bhujia","qty":1}
+],
+
+"Yash Grain Stores":[
+{"name":"Masala Rings","qty":2},
+{"name":"Cheese Ball","qty":1}
+],
+
+"Nandu Stores":[
+{"name":"Masala Rings","qty":3},
+{"name":"Fritts Cream Onion","qty":2}
+]
+}
